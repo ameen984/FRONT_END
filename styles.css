@@ -1313,6 +1313,12 @@ border-radius: 30px;
 .page4card{
   gap:10px
 }
+.page4card a{
+  margin-bottom: 10px;
+}
+.page4card{
+  padding: 0px 10px;
+}
 
 
 }
