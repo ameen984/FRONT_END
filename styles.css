@@ -267,7 +267,7 @@ nav a:hover::after {
   nav{
     width: 80%;
     font-size: 1rem;
-    background-color: #434343;
+    /* background-color: #434343; */
     /* position: absolute; */
     /* bottom: 0%; */
     /* left: 22%; */
@@ -1338,4 +1338,10 @@ border-radius: 30px;
 
 
 
+  }
+
+  @media(max-height:750px){
+    .page5{
+      height: 240vh;
+    }
   }
