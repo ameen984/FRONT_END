@@ -1341,6 +1341,12 @@ border-radius: 30px;
     font-size: 16px;
     text-align: center;
   }
+  .page4content{
+    gap: 50px;
+  }
+  .page4heading{
+    gap: 10px;
+  }
 
 
 
